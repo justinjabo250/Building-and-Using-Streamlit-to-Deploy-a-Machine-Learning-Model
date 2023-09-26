@@ -1,7 +1,10 @@
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ikoghoemmanuell?tab=repositories)
-[![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/p/76d51b8d6e05/edit)
-[![Docker App](https://img.shields.io/badge/Streamlit-App-yellow)](https://huggingface.co/spaces/ikoghoemmanuell/Churn-Classification-App-Streamlit)
-[![Website](https://img.shields.io/badge/My-Website-darkgreen)](https://emmanuelikogho.netlify.app/)
+
+# 🚀 Building and Deploying a Machine Learning Model with Streamlit. 🚀
+
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/justinjabo250?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/jabo-justin-2815341a2/) 
+[![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@jabojustin250)
+[![Docker App](https://img.shields.io/badge/Streamlit-App-yellow)](https://huggingface.co/spaces/Justin-J/Sales-forecasting-and-prediction-Using-Streamlit)
 
 ## Building and Deploying a Machine Learning Model with Streamlit
 
@@ -48,7 +51,7 @@ We will use the Streamlit library to create the app. The app will have input com
 
 # 🚀 Execution
 
-**NOTE**: You must download **model.pkl** and **merged_train_data** from [`here`](https://huggingface.co/spaces/ikoghoemmanuell/Sales-Prediction-App-Streamlit/tree/main) (files too large for github) 
+**NOTE**: You must download **model.pkl** and **merged_train_data** from [`here`](https://huggingface.co/spaces/Justin-J/Sales-forecasting-and-prediction-Using-Streamlit) (files too large for github) 
 and also move **scaler.pkl** and **encoder.pkl** to the root folder before running the app. 
 
 To Run the app: Go to your terminal and type:
@@ -67,4 +70,4 @@ If you found this article helpful, please give it a clap or a star on GitHub!
 
 ---
 
-<p>&copy; 2023 Emmanuel Ikogho Okeoghene</p>
+<p>&copy; 2023 Justin Jabo</p>
