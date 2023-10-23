@@ -5,6 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/jabo-justin-2815341a2/) 
 [![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@jabojustin250)
 [![Docker App](https://img.shields.io/badge/Streamlit-App-yellow)](https://huggingface.co/spaces/Justin-J/Sales-forecasting-and-prediction-Using-Streamlit)
+[![Articles](https://img.shields.io/badge/My-Portfolio-darkblue?logo=Website)](https://justinjabo250.github.io/Developing-a-web-application-for-an-online-portfolio./)
+[![View GitHub Profile](https://img.shields.io/badge/GitHub-Profile-darkgreen)](https://github.com/justinjabo250)
+
 
 ## Building and Deploying a Machine Learning Model with Streamlit
 
